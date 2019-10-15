@@ -1,10 +1,11 @@
-Git is a version control system.
-Git is free software.
-阿斯顿发送到发生
-231234
-adsfad
-Creating a new branch is quick.
-Creating a new branch is quick AND simple.
+Git is a version control system.阿斯顿发
+Git is free software.阿斯顿发
+阿斯顿发送到发生是的发送到发
+231234阿斯顿发
+adsfad暗室逢灯
+Creating a new branch is quick.阿斯顿发
+Creating a new branch is quick AND simple.阿斯顿发 
+
 Creating a new branch is quick AND & simple.
 
 147
