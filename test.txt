@@ -1,3 +1,1 @@
-Git is a version control system.
-Git is free software.
-1
+我们都有一个家，名字叫中国。
